@@ -25,3 +25,12 @@ RipCloud is an initiative to develop a personal cloud storage solution, inspired
    ```bash
    git clone https://github.com/IDKGITMSD/RipCloud.git
    cd RipCloud
+
+2. **Compile Java Files:**
+   ```bash
+   javac *.java
+
+3. **Run The Java Application:**
+   ```bash
+   javac *.java
+
