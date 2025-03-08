@@ -1,6 +1,6 @@
 # RipCloud
 
-**Ripoff for iCloud by our own**
+**Ripoff for a Famous Cloud Storage Service by our own**
 
 ## Overview
 
@@ -34,3 +34,9 @@ RipCloud is an initiative to develop a personal cloud storage solution, inspired
    ```bash
    javac *.java
 
+## Project Structure
+- **DataCenter.java:** Handles data storage and management.
+- **ImgComMiddleWareServer.java:** Manages image compression and middleware services.
+- **UploadGUI.java:** Provides the graphical user interface for file uploads.
+- **client.java:** Manages client-side operations.
+- **test.java:** Contains test cases for various functionalities.
