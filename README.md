@@ -1,6 +1,6 @@
 # RipCloud
 
-**Ripoff for a Famous Cloud Storage Service by our own**
+**Ripoff for a Famous Cloud Storage Service on our own/ or like a Replica of Hadoop Basic Functionalities**
 
 ## Overview
 
@@ -40,3 +40,6 @@ RipCloud is an initiative to develop a personal cloud storage solution, inspired
 - **UploadGUI.java:** Provides the graphical user interface for file uploads.
 - **client.java:** Manages client-side operations.
 - **test.java:** Contains test cases for various functionalities.
+
+**Future Updates:**
+- Adding a Postgresql connectivity for file storage
