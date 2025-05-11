@@ -31,8 +31,7 @@ RipCloud is an initiative to develop a personal cloud storage solution, inspired
    javac *.java
 
 3. **Run The Java Application:**
-   ```bash
-   javac *.java
+  
 
 ## Project Structure
 - **DataCenter.java:** Handles data storage and management.
