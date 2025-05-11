@@ -30,7 +30,7 @@ RipCloud is an initiative to develop a personal cloud storage solution, inspired
    ```bash
    javac *.java
 
-3. **Run The Java Application:**
+3. **Run The Java Application**
   
 
 ## Project Structure
